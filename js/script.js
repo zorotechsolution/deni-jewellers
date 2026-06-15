@@ -211,6 +211,29 @@ var PRODUCTS = [
     material: '22K Yellow Gold, BIS Hallmark Certified',
     weight: '0 grams',
     price: 'Enquire Now'
+  },
+  // Ring
+  {
+    id: 19, name: 'Classic Gold Ring', category: 'ring',
+    image: 'images/gold_ring_angle1_top.png',
+    image2: 'images/gold_ring_angle2_side.png',
+    image3: 'images/gold_ring_angle3_low.png',
+    shortDesc: 'A classic 22K gold ring with a polished, elegant band',
+    description: 'The Classic Gold Ring is a timeless testament to simplicity and grace. Expertly fashioned from certified 22K yellow gold, this ring features a sleek, highly polished band designed for daily wear. Its minimalist design is both modern and traditional, offering a comfortable fit and a subtle, warm glow. Perfect as a wedding band or an everyday accessory, it represents the everlasting purity of gold.',
+    material: '22K Yellow Gold, BIS Hallmark Certified',
+    weight: '0 grams',
+    price: 'Enquire Now'
+  },
+  {
+    id: 20, name: 'Solitaire Diamond Ring', category: 'ring',
+    image: 'images/signet_ring_angle1_top.png',
+    image2: 'images/signet_ring_angle2_side.png',
+    image3: 'images/signet_ring_angle3_tilted.png',
+    shortDesc: 'A stunning solitaire diamond ring set in 18K white gold',
+    description: 'The Solitaire Diamond Ring is the ultimate expression of love and devotion. Featuring a brilliant-cut solitaire diamond set in a classic six-prong setting of 18K white gold, this ring maximizes light return for unparalleled brilliance. The slender, polished band accentuates the diamond\'s exceptional fire and clarity. Handcrafted to perfection, this timeless piece is destined to be cherished for generations.',
+    material: '18K White Gold with VS Diamond',
+    weight: '0 grams',
+    price: 'Enquire Now'
   }
 ];
 
