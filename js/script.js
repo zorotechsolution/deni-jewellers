@@ -230,9 +230,47 @@ var PRODUCTS = [
     image2: 'images/signet_ring_angle2_side.png',
     image3: 'images/signet_ring_angle3_tilted.png',
     shortDesc: 'A stunning solitaire diamond ring set in 18K white gold',
-    description: 'The Solitaire Diamond Ring is the ultimate expression of love and devotion. Featuring a brilliant-cut solitaire diamond set in a classic six-prong setting of 18K white gold, this ring maximizes light return for unparalleled brilliance. The slender, polished band accentuates the diamond\'s exceptional fire and clarity. Handcrafted to perfection, this timeless piece is destined to be cherished for generations.',
+    description: 'This exquisite ring showcases a radiant 24K polished gold design featuring a romantic heart-shaped bezel adorned with a delicate 5-petal flower motif. Expertly crafted with a flawless high-polish finish, the elegant floral centerpiece symbolizes love, beauty, and timeless grace. The intricate detailing and luxurious gold craftsmanship create a captivating piece that blends classic charm with modern sophistication, making it perfect for special occasions or everyday elegance.',
     material: '18K White Gold with VS Diamond',
     weight: '0 grams',
+    price: 'Enquire Now'
+  },
+  // Men's Chain
+  {
+    id: 21, name: 'Men\'s Solid Curb Chain', category: 'mens-chain',
+    image: 'images/product-mens-chain1.png',
+    shortDesc: 'A heavy, masculine 22K gold curb chain',
+    description: 'Crafted in premium 22K gold, this Men\'s Solid Curb Chain features classic, flat interlocking links that lie comfortably against the skin. Its bold, robust silhouette offers an expression of strength and timeless luxury. Finished with a heavy-duty clasp for secure wear, this chain is perfect for the modern gentleman who appreciates fine craftsmanship and substantial presence.',
+    material: '22K Yellow Gold, BIS Hallmark Certified',
+    weight: '24 grams',
+    price: 'Enquire Now'
+  },
+  {
+    id: 23, name: 'Men\'s Executive Figaro Chain', category: 'mens-chain',
+    image: 'images/product-mens-chain2.png',
+    shortDesc: 'A premium, high-polished 22K gold Figaro chain',
+    description: 'The Men\'s Executive Figaro Chain is a masterclass in modern masculine style, showcasing a classic pattern of alternating short and elongated links. Forged in certified 22K yellow gold with a flawless high-polish finish, it drapes smoothly and offers a striking balance of sophistication and strength. Secured with a custom-engineered lobster clasp, this chain is designed for daily comfort and long-lasting durability.',
+    material: '22K Yellow Gold, BIS Hallmark Certified',
+    weight: '28.5 grams',
+    price: 'Enquire Now'
+  },
+  // Thailand Gold
+  {
+    id: 22, name: 'Thailand Baht Gold Chain', category: 'thailand',
+    image: 'images/product-thailand1.png',
+    shortDesc: 'A traditional high-purity Thailand gold chain with S-clasp',
+    description: 'Inspired by traditional Southeast Asian metalwork, this Thailand Baht Gold Chain is crafted from exceptional high-purity 23K yellow gold. It features an intricate, dense link pattern that offers a striking texture and brilliant shine. The chain is secured with a signature traditional S-hook clasp, combining authentic heritage design with outstanding luxurious quality.',
+    material: '23K Thailand Yellow Gold, Certified Purity',
+    weight: '30.4 grams (2 Baht)',
+    price: 'Enquire Now'
+  },
+  {
+    id: 24, name: 'Thailand Baht Gold Bracelet', category: 'thailand',
+    image: 'images/product-thailand2.png',
+    shortDesc: 'A traditional high-purity gold dragon scale bracelet',
+    description: 'Crafted from high-purity 23K Thailand yellow gold, this Baht Gold Bracelet features an intricate dragon scale link pattern that exudes exceptional luxury and heritage craftsmanship. The bracelet is finished with a signature traditional S-hook clasp, reflecting authentic Southeast Asian artistry. Each link is meticulously assembled to ensure maximum shine and comfortable flexibility on the wrist.',
+    material: '23K Thailand Yellow Gold, Certified Purity',
+    weight: '15.2 grams (1 Baht)',
     price: 'Enquire Now'
   }
 ];
