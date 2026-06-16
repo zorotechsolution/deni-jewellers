@@ -211,6 +211,75 @@ var PRODUCTS = [
     material: '22K Yellow Gold, BIS Hallmark Certified',
     weight: '0 grams',
     price: 'Enquire Now'
+  },
+  // Ring
+  {
+    id: 19, name: 'Classic Gold Ring', category: 'ring',
+    image: 'images/gold_ring_angle1_top.png',
+    image2: 'images/gold_ring_angle2_side.png',
+    image3: 'images/gold_ring_angle3_low.png',
+    shortDesc: 'A classic 22K gold ring with a polished, elegant band',
+    description: 'The Classic Gold Ring is a timeless testament to simplicity and grace. Expertly fashioned from certified 22K yellow gold, this ring features a sleek, highly polished band designed for daily wear. Its minimalist design is both modern and traditional, offering a comfortable fit and a subtle, warm glow. Perfect as a wedding band or an everyday accessory, it represents the everlasting purity of gold.',
+    material: '22K Yellow Gold, BIS Hallmark Certified',
+    weight: '0 grams',
+    price: 'Enquire Now'
+  },
+  {
+    id: 20, name: 'Floral Heart Elegance Ring', category: 'ring',
+    image: 'images/signet_ring_angle1_top.png',
+    image2: 'images/signet_ring_angle2_side.png',
+    image3: 'images/signet_ring_angle3_tilted.png',
+    shortDesc: 'Signet Ring features a heart-shaped bezel with an elegant five-petal floral motif,',
+    description: 'The Amora Blossom Signet Ring is a timeless expression of elegance and romance, meticulously crafted in radiant 24K polished gold. Featuring a distinctive heart-shaped bezel adorned with a delicately sculpted five-petal flower, this exquisite design symbolizes love, beauty, and enduring grace. The smooth polished finish and refined craftsmanship create a luxurious statement piece that seamlessly blends modern sophistication with classic charm.',
+    material: '18K White Gold',
+    weight: '0 grams',
+    price: 'Enquire Now'
+  },
+  // Men's Chain
+  {
+    id: 21, name: 'Men\'s Solid Curb Chain', category: 'mens-chain',
+    image: 'images/mens_chain_angle1_top.png',
+    image2: 'images/mens_chain_angle2_side.png',
+    image3: 'images/mens_chain_angle3_tilted.png',
+    shortDesc: 'A heavy, masculine 22K gold curb chain',
+    description: 'Crafted in premium 22K gold, this Men\'s Solid Curb Chain features classic, flat interlocking links that lie comfortably against the skin. Its bold, robust silhouette offers an expression of strength and timeless luxury. Finished with a heavy-duty clasp for secure wear, this chain is perfect for the modern gentleman who appreciates fine craftsmanship and substantial presence.',
+    material: '22K Yellow Gold, BIS Hallmark Certified',
+    weight: '0 grams',
+    price: 'Enquire Now'
+  },
+  {
+    id: 23, name: 'Men\'s Executive Figaro Chain', category: 'mens-chain',
+    image: 'images/herringbone_chain_angle1_top.png',
+    image2: 'images/herringbone_chain_angle2_side.png',
+    image3: 'images/herringbone_chain_angle3_tilted.png',
+    shortDesc: 'A premium, high-polished 22K gold Figaro chain',
+    description: 'The Men\'s Executive Figaro Chain is a masterclass in modern masculine style, showcasing a classic pattern of alternating short and elongated links. Forged in certified 22K yellow gold with a flawless high-polish finish, it drapes smoothly and offers a striking balance of sophistication and strength. Secured with a custom-engineered lobster clasp, this chain is designed for daily comfort and long-lasting durability.',
+    material: '22K Yellow Gold, BIS Hallmark Certified',
+    weight: '0 grams',
+    price: 'Enquire Now'
+  },
+  // Thali Gold
+  {
+    id: 22, name: 'Divine Thali Chain', category: 'Thali',
+    image: 'images/thali 1.png',
+    image2: 'images/thali 2.png',
+    image3: 'images/thali 3.png',
+    shortDesc: 'A traditional high-purity Thailand gold chain with S-clasp',
+    description: 'Celebrate tradition, devotion, and timeless craftsmanship with the Sri Lakshmi Ganesha Divine Thali Chain. Meticulously crafted in radiant gold, this exquisite design features sacred Lakshmi and Ganesha motifs symbolizing prosperity, wisdom, and divine blessings. The elegant temple-inspired centerpiece, combined with intricately detailed gold elements, reflects the rich heritage of South Indian jewellery artistry',
+    material: '23K Yellow Gold, Certified Purity',
+    weight: '0 grams',
+    price: 'Enquire Now'
+  },
+  {
+    id: 24, name: 'Kemp Kalyani Gold Thali', category: 'Thali',
+    image: 'images/thali 4.png',
+    image2: 'images/thali 5.png',
+    image3: 'images/thali 6.png',
+    shortDesc: '"Where tradition meets timeless beauty — crafted for the woman who carries her culture with grace."',
+    description: 'Adorn yourself with timeless elegance — the Kemp Kalyani Gold Necklace, a masterpiece of traditional South Indian craftsmanship. Featuring intricately filigree-worked oval beads set with deep crimson Kemp (ruby) stones, this necklace is a celebration of heritage and femininity.',
+    material: '23K Yellow Gold, Certified Purity',
+    weight: '0 grams',
+    price: 'Enquire Now'
   }
 ];
 
